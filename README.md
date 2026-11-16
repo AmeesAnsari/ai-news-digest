@@ -3,13 +3,13 @@
 A weekly digest of news on **AI agents, automation, models, safety, infrastructure and retrieval**, built automatically from 10 public RSS/Atom feeds by a GitHub Action every Monday.
 
 <!-- latest:start -->
-**Latest: [14 Nov 2026](digests/2026-11-14.md)**
+**Latest: [16 Nov 2026](digests/2026-11-16.md)**
 
+- [Building AI that can work across the enterprise](https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/) · MIT Technology Review
+- [AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities](https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/) · NVIDIA
 - [Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard](https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/) · AWS Machine Learning
 - [AI agent startup LangChain hits $3B valuation](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/) · TechCrunch AI
 - [Introducing ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet) · OpenAI
-- [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](https://huggingface.co/blog/qvac/botpsy) · Hugging Face
-- [Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA](https://blogs.nvidia.com/blog/korea-secure-agentic-ai/) · NVIDIA
 <!-- latest:end -->
 
 All past issues are in [`digests/`](digests/).
