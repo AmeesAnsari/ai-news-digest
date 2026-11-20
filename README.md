@@ -1,5 +1,7 @@
 # ai-news-digest
 
+[![Weekly digest](https://github.com/AmeesAnsari/ai-news-digest/actions/workflows/weekly.yml/badge.svg)](https://github.com/AmeesAnsari/ai-news-digest/actions/workflows/weekly.yml) [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 A weekly digest of news on **AI agents, automation, models, safety, infrastructure and retrieval**, built automatically from 10 public RSS/Atom feeds by a GitHub Action every Monday.
 
 <!-- latest:start -->
